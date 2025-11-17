@@ -157,7 +157,7 @@ Naked Flavors currently operates with a highly concentrated market strategy:
 
 2. **Demographic Concentration**: The core consumer is overwhelmingly **Female (72.59% of revenue)**, and the peak ordering time is **"Trong giờ làm việc"** (During working hours).
 
-3. **Channel Concentration**: The ****** channel is the primary revenue driver **(68.12%)**, while Web and Zalo are secondary.
+3. **Channel Concentration**: The **Harasocial** channel is the primary revenue driver **(68.12%)**, while Web and Zalo are secondary.
 
 4. **Product/Volume Discrepancy**: High-volume items like **Kem Khoai Môn Lá Cẩm** are popular, but high-revenue items like **Kem Chocolate** show potential for margin focus.
 
