@@ -52,7 +52,7 @@ This dashboard is designed primarily for:
 Internal transaction data exported from Naked Flavors’ sales management system for the year 2024.  
 
 ### 📊 Data Tables  
-The dataset contains 45,000 rows x 21 columns, including:
+The dataset contains ~45,000 rows x 21 columns, including:
 
 - Order information: Order ID, date, channel, district, delivery time
 
