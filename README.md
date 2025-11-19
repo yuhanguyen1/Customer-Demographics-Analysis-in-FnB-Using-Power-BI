@@ -1,4 +1,4 @@
-# 👥 Customer Demographics Analysis in FnB Using Power BI  
+# 👥 Customer Demographics & Product Insights Analysis in F&B Using Power BI
 
 <img width="2884" height="1756" alt="image" src="https://github.com/user-attachments/assets/28e5501c-7903-4d0f-aa5a-b0c0fb175a7e" />
 
